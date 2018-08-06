@@ -1,0 +1,7 @@
+@import '~App/_colors.scss';
+
+#first-component {}
+
+@media screen and (max-width: 1200px) and (orientation: portrait) {
+  #first-component {}
+}
